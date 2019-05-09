@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reciprogram/static/css/main.2cce8147.chunk.css",
-    "main.js": "/reciprogram/static/js/main.100d4fc2.chunk.js",
-    "main.js.map": "/reciprogram/static/js/main.100d4fc2.chunk.js.map",
+    "main.css": "/reciprogram/static/css/main.2638f946.chunk.css",
+    "main.js": "/reciprogram/static/js/main.a5a1568d.chunk.js",
+    "main.js.map": "/reciprogram/static/js/main.a5a1568d.chunk.js.map",
     "runtime~main.js": "/reciprogram/static/js/runtime~main.aab35674.js",
     "runtime~main.js.map": "/reciprogram/static/js/runtime~main.aab35674.js.map",
-    "static/js/2.b41502e9.chunk.js": "/reciprogram/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/reciprogram/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.f28cc0f4.chunk.js": "/reciprogram/static/js/2.f28cc0f4.chunk.js",
+    "static/js/2.f28cc0f4.chunk.js.map": "/reciprogram/static/js/2.f28cc0f4.chunk.js.map",
     "index.html": "/reciprogram/index.html",
-    "precache-manifest.4edebed7b8ad1ec1d8c9e78e4781ecb1.js": "/reciprogram/precache-manifest.4edebed7b8ad1ec1d8c9e78e4781ecb1.js",
+    "precache-manifest.0b5d282cfadd6aa344da7faeaa443198.js": "/reciprogram/precache-manifest.0b5d282cfadd6aa344da7faeaa443198.js",
     "service-worker.js": "/reciprogram/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/reciprogram/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/reciprogram/static/media/logo.5d5d9eef.svg"
+    "static/css/main.2638f946.chunk.css.map": "/reciprogram/static/css/main.2638f946.chunk.css.map",
+    "static/media/recipull_circle.png": "/reciprogram/static/media/recipull_circle.cf5917f1.png"
   }
 }
