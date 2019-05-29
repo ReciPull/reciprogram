@@ -25,6 +25,7 @@ class Button extends React.Component {
         )
     }
 }
+<<<<<<< HEAD
 
 class Voting extends React.Component { 
     state = {
@@ -96,6 +97,16 @@ class CardBody extends React.Component {
                     </button>
 
                 </div>
+=======
+  
+class CardBody extends React.Component {
+    render() {
+        return (
+        <div className="fullBody">
+            <div className="card-body">
+                <p className="date">{this.props.date}</p>
+                
+>>>>>>> 956cfaaebadbc6e2b5d74e475fe018f0c991cd23
                 <h2>{this.props.title}</h2>
                 
                 <p className="body-content">{this.props.text}</p>
@@ -115,7 +126,11 @@ class Card extends React.Component {
         return (
         <article className="card">
             <CardHeader category={this.props.category} image={this.props.image}/>
+<<<<<<< HEAD
             <CardBody numVotes={this.props.numVotes} numIngredients={this.props.numIngredients} date={this.props.date} title={this.props.title} text={this.props.text}/>
+=======
+            <CardBody date={this.props.date} title={this.props.title} text={this.props.text}/>
+>>>>>>> 956cfaaebadbc6e2b5d74e475fe018f0c991cd23
         </article>
         )
     }
