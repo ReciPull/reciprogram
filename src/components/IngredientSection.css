@@ -6,11 +6,7 @@
   {
     width: 100%;
     height: 500px;
-<<<<<<< HEAD
     outline: 3px solid black;
-=======
-    outline: 5px solid black;
->>>>>>> 956cfaaebadbc6e2b5d74e475fe018f0c991cd23
     position: relative;
     
   }
@@ -74,11 +70,7 @@
   }
   
   .clearBtn:hover {
-<<<<<<< HEAD
     background: #ffffff;
-=======
-    background: #E43544;
->>>>>>> 956cfaaebadbc6e2b5d74e475fe018f0c991cd23
   }
   
   .btn{

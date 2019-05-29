@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
-<<<<<<< HEAD
 //import ScaleText from "react-scale-text";
-=======
->>>>>>> 956cfaaebadbc6e2b5d74e475fe018f0c991cd23
 
 export class SearchBar extends Component {
     state = {
@@ -11,7 +8,6 @@ export class SearchBar extends Component {
 
     onSubmit = (e) => {
         e.preventDefault();
-<<<<<<< HEAD
         if (this.state.title == '') {
             return; 
         }
@@ -28,10 +24,6 @@ export class SearchBar extends Component {
             }
             this.setState({ title: ''});
         }
-=======
-        this.props.addIngredient(this.state.title);
-        this.setState({ title: ''});
->>>>>>> 956cfaaebadbc6e2b5d74e475fe018f0c991cd23
     }
 
     onChange = (e) => this.setState({ [e.target.name]: e.target.value });

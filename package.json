@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "recipull",
   "version": "0.1.0",
   "private": true,
@@ -12,16 +11,6 @@
     "react-scale-text": "^1.2.2",
     "react-scripts": "3.0.0",
     "reactstrap": "^8.0.0"
-=======
-  "name": "reciprogram",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "http://recipull.github.io/reciprogram",
-  "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
->>>>>>> 956cfaaebadbc6e2b5d74e475fe018f0c991cd23
   },
   "scripts": {
     "start": "react-scripts start",
@@ -47,14 +36,10 @@
     ]
   },
   "devDependencies": {
-<<<<<<< HEAD
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.13.1",
     "gh-pages": "^2.0.1",
     "jsdom": "15.1.0",
     "jsdom-global": "3.0.2"
-=======
-    "gh-pages": "^2.0.1"
->>>>>>> 956cfaaebadbc6e2b5d74e475fe018f0c991cd23
   }
 }
